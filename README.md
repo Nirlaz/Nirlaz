@@ -7,10 +7,14 @@
 ### 💻 About Me
 
 - 🔭 I work with **.NET**, **Classic ASP**, **SQL Server**, and **REST/SOAP APIs**
-- 🌱 Currently expanding my skills in **Entity Framework Core**, **Docker**, and **SOLID principles**
-- 🧠 I enjoy solving backend challenges and optimizing SQL procedures
-- 👯 I love collaborating on real-world fintech projects
-- ⚡ Fun fact: I enjoy learning through building ✨
+- 🌱 Currently expanding my skills in:
+  - 🧩 **Entity Framework Core**
+  - 🐳 **Dockerizing .NET & React apps**
+  - 🧠 **SOLID Principles** & **Design Patterns**
+- 💡 Enthusiastic about writing **clean code**, optimizing legacy systems, and learning real-world architecture
+- 🛠️ Frequently working with **stored procedures**, **SOAP API XML payloads**, and **remittance transaction handling**
+- 👨‍💻 Currently building small full-stack systems using **React** + **.NET APIs**
+- ✨ Passionate about **self-learning**, tech podcasts, and backend system design
 
 ---
 
@@ -23,16 +27,22 @@
 ![REST API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge)
 ![SOAP](https://img.shields.io/badge/SOAP-XML-blueviolet?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ### 🏆 Achievements
 
-- 🚀 Developed core modules for remittance services using .NET and SQL
-- 🔒 Implemented secure API integrations for third-party banking services
-- 🛠️ Optimized large SQL stored procedures and backend services
-- ⚙️ Currently learning and applying **clean code**, **design patterns**, and **SOLID principles**
+- 🚀 Built and maintained remittance processing modules in production
+- 🔒 Integrated secure banking APIs using encrypted payloads (SOAP + XML)
+- 🧼 Converted dynamic SQL logic into secure, parameterized procedures
+- ⚙️ Practicing and applying **Clean Architecture** and **Design Patterns**
+- 📦 Dockerized a full-stack **Task Management System** using React + .NET
+- 🔄 Improving legacy Classic ASP systems with modular C# services
+- 📚 Currently diving deep into:
+  - `Dependency Injection`, `Repository Pattern`, `JWT Auth`, `Sessions`, `Async/Await`, and `.NET middleware`
 
 ---
 
@@ -46,12 +56,22 @@
 
 ### 📌 Pinned Projects
 
-> _(Pin your top 2–3 repositories to show your best work!)_
+- 🧾 **NirlazRemittance** – Real-world remittance app demo (WIP)
+- ✅ **Task Management System** – A productivity tool (React + .NET API + JWT)
+- 🗂️ **School Management System** – SQL-heavy project for managing school ops
+- 🔧 **SQL Optimization Toolkit** – Collection of tuned stored procedures
 
-- 🧾 **NirlazRemittance** – Work in progress
-- ⚙️ **Task Management System** –  tool for manageing taskes
-- 🗂️ **School Management System** – Toolkit for managing and optimizing school using SQL Server queries
+---
+
+### 📚 Currently Learning
+
+- 📦 Docker + Kubernetes basics for deployment
+- 🔐 Auth systems with JWT + Session Cookies
+- 🎯 Domain-Driven Design (DDD) in .NET
+- 🧪 Writing Unit Tests & Integration Tests using xUnit + Moq
 
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
+> *Keep shipping. Keep learning. Keep building.* 💥
