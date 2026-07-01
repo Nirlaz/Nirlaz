@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nirlaz Gyawali
 
-🔧 A passionate junior developer from Nepal working at **Inficare Pvt. Ltd.**, a remittance-based fintech company.
+🔧 A passionate junior developer from Nepal working at **Ekbana Pvt. Ltd.**, a sevice-based company.
 
 ---
 
